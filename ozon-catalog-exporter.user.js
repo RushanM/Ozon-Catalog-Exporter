@@ -8,6 +8,7 @@
 // @downloadURL     https://github.com/RushanM/Ozon-Catalog-Exporter/raw/master/ozon-catalog-exporter.user.js
 // @grant           none
 // @homepageURL     https://github.com/RushanM/Ozon-Catalog-Exporter
+// @icon            https://st.ozone.ru/assets/favicon.ico
 // @license         MIT
 // @match           https://*.ozon.ru/*
 // @match           https://ozon.ru/*
@@ -15,7 +16,7 @@
 // @namespace       ozon-catalog-exporter
 // @supportURL      https://github.com/RushanM/Ozon-Catalog-Exporter/issues
 // @updateURL       https://github.com/RushanM/Ozon-Catalog-Exporter/raw/master/ozon-catalog-exporter.user.js
-// @version         A1
+// @version         A2
 // ==/UserScript==
 
 (() => {
